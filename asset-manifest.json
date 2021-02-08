@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/yechubot.github.io-po/static/css/main.721ea0c2.chunk.css",
-    "main.js": "/yechubot.github.io-po/static/js/main.79c0568c.chunk.js",
-    "main.js.map": "/yechubot.github.io-po/static/js/main.79c0568c.chunk.js.map",
-    "runtime~main.js": "/yechubot.github.io-po/static/js/runtime~main.52824efd.js",
-    "runtime~main.js.map": "/yechubot.github.io-po/static/js/runtime~main.52824efd.js.map",
-    "static/css/2.87a9c7a2.chunk.css": "/yechubot.github.io-po/static/css/2.87a9c7a2.chunk.css",
-    "static/js/2.b98409f9.chunk.js": "/yechubot.github.io-po/static/js/2.b98409f9.chunk.js",
-    "static/js/2.b98409f9.chunk.js.map": "/yechubot.github.io-po/static/js/2.b98409f9.chunk.js.map",
-    "index.html": "/yechubot.github.io-po/index.html",
-    "precache-manifest.a904abb6c486ce653ab81c9a23d391d9.js": "/yechubot.github.io-po/precache-manifest.a904abb6c486ce653ab81c9a23d391d9.js",
-    "service-worker.js": "/yechubot.github.io-po/service-worker.js",
-    "static/css/2.87a9c7a2.chunk.css.map": "/yechubot.github.io-po/static/css/2.87a9c7a2.chunk.css.map",
-    "static/css/main.721ea0c2.chunk.css.map": "/yechubot.github.io-po/static/css/main.721ea0c2.chunk.css.map",
-    "static/media/bookslog.png": "/yechubot.github.io-po/static/media/bookslog.12a87f31.png",
-    "static/media/homes.png": "/yechubot.github.io-po/static/media/homes.849d6548.png",
-    "static/media/surprise.png": "/yechubot.github.io-po/static/media/surprise.3cfdd629.png"
+    "main.css": "/react.po/static/css/main.721ea0c2.chunk.css",
+    "main.js": "/react.po/static/js/main.dc3b04c3.chunk.js",
+    "main.js.map": "/react.po/static/js/main.dc3b04c3.chunk.js.map",
+    "runtime~main.js": "/react.po/static/js/runtime~main.a4dab2e2.js",
+    "runtime~main.js.map": "/react.po/static/js/runtime~main.a4dab2e2.js.map",
+    "static/css/2.87a9c7a2.chunk.css": "/react.po/static/css/2.87a9c7a2.chunk.css",
+    "static/js/2.b98409f9.chunk.js": "/react.po/static/js/2.b98409f9.chunk.js",
+    "static/js/2.b98409f9.chunk.js.map": "/react.po/static/js/2.b98409f9.chunk.js.map",
+    "index.html": "/react.po/index.html",
+    "precache-manifest.4f421c38d4c7813dac710250295f527c.js": "/react.po/precache-manifest.4f421c38d4c7813dac710250295f527c.js",
+    "service-worker.js": "/react.po/service-worker.js",
+    "static/css/2.87a9c7a2.chunk.css.map": "/react.po/static/css/2.87a9c7a2.chunk.css.map",
+    "static/css/main.721ea0c2.chunk.css.map": "/react.po/static/css/main.721ea0c2.chunk.css.map",
+    "static/media/bookslog.png": "/react.po/static/media/bookslog.12a87f31.png",
+    "static/media/homes.png": "/react.po/static/media/homes.849d6548.png",
+    "static/media/surprise.png": "/react.po/static/media/surprise.3cfdd629.png"
   }
 }
